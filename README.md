@@ -1,6 +1,6 @@
 # airbnb_london_data_blog
 
-Working with the public **airbnb** data for London as my first project in _Udacity Nanodegree Data Science_ course
+Working with the public **airbnb** data for London at my first project in _Udacity Nanodegree Data Science_ course
 
 ## Type of file:
 
@@ -8,7 +8,7 @@ Working with the public **airbnb** data for London as my first project in _Udaci
 
 ## Filename:
 
-udacity-datascience-1stproject-blog-carlosarocha.ipynb
+	udacity-datascience-1stproject-blog-carlosarocha.ipynb
 
 ## Libraries needed in your environment:
 
@@ -24,7 +24,7 @@ udacity-datascience-1stproject-blog-carlosarocha.ipynb
 ## Data:
 
 The airbnb public data files used in this repository couldn't be uploaded for their size.
-You need to use this link to access the data:[inside_airbnb_public_data](http://insideairbnb.com/get-the-data.html)
+You need to use this link to access the data:[inside_airbnb_public_data](http://insideairbnb.com/get-the-data.html).
 Or search for it directly in this webpage: [www.insideairbnb.com](http://insideairbnb.com)
 
 Look for the London data and download the next files:
